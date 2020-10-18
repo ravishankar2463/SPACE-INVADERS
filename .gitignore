@@ -1,1 +1,5 @@
 /.vscode
+models/__pycache__/ship.cpython-36.pyc
+config/__pycache__/config.cpython-36.pyc
+models/__pycache__/enemy.cpython-36.pyc
+models/__pycache__/player.cpython-36.pyc
